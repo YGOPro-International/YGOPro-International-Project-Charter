@@ -1,10 +1,10 @@
 # YGOPro-International-Project-Charter
 
-The core of Ygopro International comes from the desire to fix the ygopro soruce code and give the enduser what they want. This project stems from the fact that The creator of ygopro does not care about the users or the rotting code base.
+The core of Ygopro International comes from the desire to fix the ygopro soruce code and give the enduser what they want.
 
 ## Actual Rules
 
-- The Admins are singularly incharge. Everyone else is equal under them.
+- The Admins are incharge. Everyone else is equal under them.
 - Do no evil
 - If there is a problem with the software, file a bug.
 - Do not take work you can not complete in a timely manner, or show progress of completing.
