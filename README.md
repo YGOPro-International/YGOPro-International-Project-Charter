@@ -2,6 +2,8 @@
 
 The core of Ygopro International comes from the desire to fix the ygopro soruce code and give the enduser what they want. This project stems from the fact that The creator of ygopro does not care about the users or the rotting code base.
 
+The Admins are singularly incharge. Everyone else is equal under them.
+
 Actual Rules
 
 Do no evil
