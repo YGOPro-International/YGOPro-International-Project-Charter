@@ -13,22 +13,24 @@ The core of Ygopro International comes from the desire to fix the ygopro soruce 
 - Setup should be as few steps as possible.
 - ALWAYS DOCUMENT YOUR WORK NO EXCEPTIONS.
 
+# Goals
+- Rebuild base code.
+- Rebuild Network code to use api's
+- Use Unity or something other than Irrlicht and new gui.
+- Add command line functions.
+- Add asynchronous support
+- Internalize functions.
+- Automate card database tasks.
+- Add support for database switching.
+- Add support for insensitive case searching.(edited)
+- New replay system that doesn't need scripts for playback.(edited)
+- regression testing support and mainline support for anime,korean and customs
+
 ## Contributing
 
 ## Articles
  
  https://simpleprogrammer.com/2013/09/09/dark-side-software-development-one-talks/
-To do list
-Rebuild base code.
 
-Rebuild Network code to use api's
 
-Use Unity or something other than Irrlicht and new gui.
-Add command line functions.
-Add asynchronous support
-Internalize functions.
-Automate card database tasks.
-Add support for database switching.
-Add support for insensitive case searching.(edited)
-New replay system that doesn't need scripts for playback.(edited)
-regression testing support and mainline support for anime,korean and customs
+
