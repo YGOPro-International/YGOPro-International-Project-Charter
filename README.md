@@ -13,6 +13,7 @@ The core of Ygopro International comes from the desire to fix the ygopro soruce 
 - Setup should be as few steps as possible.
 - ALWAYS DOCUMENT YOUR WORK NO EXCEPTIONS.
 
+## Contributing
 
 ## Articles
  
